@@ -1,2 +1,2 @@
-# hOTEL
- 
+Hotel design using Figma
+
